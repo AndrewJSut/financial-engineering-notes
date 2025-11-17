@@ -1,13 +1,13 @@
 # Financial Engineering Notes
 
-This repository contains a curated collection of study notes, replications, and exploratory notebooks completed while working through various quantitative finance texts and research papers.
+This repository contains a curated collection of replications and exploratory notebooks completed while working through various quantitative finance texts and research papers.
 
-The material is not intended as production-quality code. Its purpose is to document mathematical ideas, numerical methods, and modelling techniques encountered during my studies. The work here complements my project-focused repositories by showing the underlying research and experimentation that informed them.
+The material is not intended as production-quality code. Its purpose is to document mathematical ideas and modelling techniques encountered during my studies in Financial Engineering.
 
 ## Structure
 ### Machine Learning for Asset Managers (Lopez de Prado)
 
-Chapters 2–8 reproduced in Python.
+Chapters 2–8 reproduced in Python. I refer to these frequently; it was a great read!
 Includes implementations of the core methods discussed in the book, intermediate calculations, and experiments to verify results and intuition.
 
 ### Paper Replications
